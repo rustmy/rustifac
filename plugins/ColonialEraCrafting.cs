@@ -11,66 +11,10 @@
 			List<object> defaultList = new List<object>();
 			private bool configChanged = false;
 			string[] factions_colonial = {
-				"HEC",
-				"Voyageurs",
-				"NPT",
-				"Olson",
-				"Meridian",
-				"UCNW",
-				"colony",
-				"DTY",
-				"NWC",
-				"PRH",
-				"CDB",
-				"LOST",
-				"TG",
-				"ATC",
-				"Salt",
-				"MERTH",
-				"OldMan",
-				"Union",
-				"Tiki",
-				"Ulfur",
-				"Reefer",
-				"BOOMERS",
-				"TER",
-				"lingam",
-				"Legion",
-				"GTC",
-				"UNE"
+				"HEC"
 			};
 			string[] factions_native = {
-				"Wathaurong",
-				"Kiswani",
-				"WARZ",
-				"Warziri",
-				"Hunters",
-				"Zulu",
-				"Ferox",
-				"Konyak",
-				"Dakota",
-				"Korowa",
-				"SKN",
-				"Quetzalcoatl",
-				"Lakota",
-				"WAKAN",
-				"Glass",
-				"LCT",
-				"Witigo",
-				"KOS",
-				"Lumby",
-				"Yava",
-				"Wendigo",
-				"Koro",
-				"Odawa",
-				"CREEK",
-				"SI",
-				"Inuit",
-				"Saburo",
-				"Hunter",
-				"Koyaanisqatsi",
-				"yoni",
-				"LC"
+				"DPP"
 			};
 			string[] banned = {
 				"Semi-Automatic Pistol",		// pistol.semiauto
